@@ -1,7 +1,17 @@
-### Hi there 👋
+<h1>Brett J. Stevens </h1>
+
+<b>Welcome to my professional portfolio repository, a compilation of projects completed throughout my academic journey and beyond. This collection serves as a testament to my comprehensive understanding, versatility, and expertise in the fields of computer science and computer systems engineering.
+</b>
+
+<h2>👨‍💻 Programming Projects completed during my studies at <a href="https://www.curtin.edu.au/">Curtin Unversity</a>:</h2>
+
+- <b>Data Structures and Algorithms</b>
+  - [Implemention of linked list, heap and graph through a social media simulation]()
+
+<h2> <a href="https://www.linkedin.com/in/brett-stevens-1b8a80262/">LinkedIn</a>  </h2>
 
 <!--
-**brettjstevens/brettjstevens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

@@ -19,7 +19,14 @@
 
 <h2> :books: Other Assignments completed during my studies at <a href="https://www.curtin.edu.au/">Curtin Unversity</a>:</h2>
 
-<h2> <a href="https://www.linkedin.com/in/brett-stevens-1b8a80262/">LinkedIn</a>  </h2>
+- <b>Law for Engineering </b>
+    - [Case study concerning negligence](https://github.com/brettjstevens/BLAW2000Assignment)
+
+<h2> 🔗 Connect: </h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/brett-stevens-1b8a80262/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

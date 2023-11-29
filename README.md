@@ -6,7 +6,7 @@
 <h2>👨‍💻 Programming Projects completed during my studies at <a href="https://www.curtin.edu.au/">Curtin Unversity</a>:</h2>
 
 - <b>Data Structures and Algorithms</b>
-  - [Implemention of linked list, heap and graph through a social media simulation]()
+  - [Implemention of linked list, heap and graph through a social media simulation](https://github.com/brettjstevens/COMP1002Assignment)
 
 <h2> <a href="https://www.linkedin.com/in/brett-stevens-1b8a80262/">LinkedIn</a>  </h2>
 

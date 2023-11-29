@@ -11,7 +11,7 @@
  <h2>👨‍💻 Engineering Projects completed during my studies at <a href="https://www.curtin.edu.au/">Curtin Unversity</a>:</h2>
  
  - <b>Engineering Sustainable Developement </b>
-    - [Group report writting concerning the sustainability of hydrogen gas as a fuel source]()
+    - [Group report writting concerning the sustainability of hydrogen gas as a fuel source](https://github.com/brettjstevens/ENEN2000Assignment)
  - <b>Renewable Energy Principes</b>
     - [Evaluation of Economic Performance of a GridConnected Roof-Top PV Array]()
  - <b>Dynamic Modelling and Control</b>

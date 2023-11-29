@@ -8,6 +8,15 @@
 - <b>Data Structures and Algorithms</b>
   - [Implemention of linked list, heap and graph](https://github.com/brettjstevens/COMP1002Assignment)
 
+ <h2>👨‍💻 Engineering Projects completed during my studies at <a href="https://www.curtin.edu.au/">Curtin Unversity</a>:</h2>
+ 
+ - <b>Engineering Sustainable Developement </b>
+    - [Group report writting concerning the sustainability of hydrogen gas as a fuel source]()
+ - <b>Renewable Energy Principes</b>
+    - [Evaluation of Economic Performance of a GridConnected Roof-Top PV Array]()
+ - <b>Dynamic Modelling and Control</b>
+    - [Design assignemnt for the simulation of a controller for an industrial plant]()
+
 <h2> <a href="https://www.linkedin.com/in/brett-stevens-1b8a80262/">LinkedIn</a>  </h2>
 
 <!--

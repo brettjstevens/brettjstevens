@@ -3,12 +3,14 @@
 <b>Welcome to my professional portfolio repository; a compilation of projects completed throughout my academic journey and beyond. This collection serves as a testament to my comprehensive understanding, versatility, and expertise in the fields of computer science and computer systems engineering.
 </b>
 
-<h2>👨‍💻 Programming Projects completed during my studies at <a href="https://www.curtin.edu.au/">Curtin Unversity</a>:</h2>
+<h2> :books: Projects completed during my studies at <a href="https://www.curtin.edu.au/">Curtin Unversity</a>:</h2>
+
+<h3>👨‍💻 Programming Projects</h2>
 
 - <b>Data Structures and Algorithms</b>
   - [Implemention of linked list, heap and graph](https://github.com/brettjstevens/COMP1002Assignment)
 
- <h2>🛠️ Engineering Assignments completed during my studies at <a href="https://www.curtin.edu.au/">Curtin Unversity</a>:</h2>
+ <h3>🛠️ Engineering Assignments</h2>
  
  - <b>Engineering Sustainable Developement </b>
     - [Group report concerning the sustainability of hydrogen gas as a fuel source](https://github.com/brettjstevens/ENEN2000Assignment)
@@ -17,7 +19,7 @@
  - <b>Dynamic Modelling and Control</b>
     - [Design assignemnt for the simulation of a controller for an industrial plant](https://github.com/brettjstevens/MXEN3004Assignment)
 
-<h2> :books: Other Assignments completed during my studies at <a href="https://www.curtin.edu.au/">Curtin Unversity</a>:</h2>
+<h3> 📑 Other Assignments</h2>
 
 - <b>Law for Engineering </b>
     - [Case study concerning negligence](https://github.com/brettjstevens/BLAW2000Assignment)

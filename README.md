@@ -26,7 +26,7 @@
 
 <h2> 🔗 Connect: </h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="BrettStevens | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/brett-stevens-1b8a80262/
 

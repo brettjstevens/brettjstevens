@@ -17,11 +17,11 @@
  <h3>🛠️ Engineering Assignments</h2>
  
  - <b>Engineering Sustainable Developement </b>
-    - [Group report concerning the sustainability of hydrogen gas as a fuel source](https://github.com/brettjstevens/ENEN2000Assignment)
+    - [Group report discussing the sustainability of hydrogen gas as a fuel source](https://github.com/brettjstevens/ENEN2000Assignment)
  - <b>Renewable Energy Principes</b>
-    - [Evaluation of Economic Performance of a GridConnected Roof-Top PV Array](https://github.com/brettjstevens/ELEN3004Assignment)
+    - [Evaluation of the economic performance of a GridConnected Roof-Top PV Array](https://github.com/brettjstevens/ELEN3004Assignment)
  - <b>Dynamic Modelling and Control</b>
-    - [Design assignemnt for the simulation of a controller for an industrial plant](https://github.com/brettjstevens/MXEN3004Assignment)
+    - [Design assignemnt for the simulation of a industrial plant controller](https://github.com/brettjstevens/MXEN3004Assignment)
 
 <h3> 📑 Other Assignments</h2>
 

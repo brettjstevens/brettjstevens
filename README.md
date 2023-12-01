@@ -26,7 +26,7 @@
 <h3> 📑 Other Assignments</h2>
 
 - <b>Law for Engineering </b>
-    - [Case study concerning negligence](https://github.com/brettjstevens/BLAW2000Assignment)
+    - [Case study on negligence](https://github.com/brettjstevens/BLAW2000Assignment)
 
 <h2> 🔗 Connect: </h2>
 

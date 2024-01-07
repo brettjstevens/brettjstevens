@@ -9,10 +9,12 @@
 
 <h3>👨‍💻 Programming Projects</h2>
 
-- <b>Obect Oriented Program Design</b>
-  - [Multi-class project implementing polymorhism, inhereitence, aggregation etc. ](https://github.com/brettjstevens/COMP1001Assignment)
 - <b>Data Structures and Algorithms</b>
   - [Implemention of linked list, heap and graph data structures](https://github.com/brettjstevens/COMP1002Assignment)
+- <b>Obect Oriented Program Design</b>
+  - [Multi-class project implementing polymorhism, inhereitence, aggregation etc. ](https://github.com/brettjstevens/COMP1001Assignment)
+- <b>Unix and C Programming</b>
+  - [Simple C program simulating a game of naughts-and-crosses, implementing linked list for saving log file](https://github.com/brettjstevens/COMP1000Assignment)
 
  <h3>🛠️ Engineering Assignments</h2>
  

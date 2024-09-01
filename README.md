@@ -3,7 +3,7 @@
 <b>Welcome to my professional portfolio repository; a compilation of projects completed throughout my academic journey and beyond. This collection serves as a testament to my comprehensive understanding, versatility, and expertise in the fields of computer science and multi-disciplinary engineering.
 </b>
 
-<h2> :books: Projects completed during my studies at <a href="https://www.curtin.edu.au/">Curtin Unversity</a>:</h2>
+<h2> :books: A few of the projects completed during my studies at <a href="https://www.curtin.edu.au/">Curtin Unversity</a>:</h2>
 
 
 

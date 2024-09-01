@@ -23,7 +23,7 @@
  - <b>Renewable Energy Principes</b>
     - [Evaluation of the economic performance of a GridConnected Roof-Top PV Array](https://github.com/brettjstevens/ELEN3004Assignment)
  - <b>Dynamic Modelling and Control</b>
-    - [Design assignemnt for the simulation of a industrial plant controller](https://github.com/brettjstevens/MXEN3004Assignment)
+    - [Design assignment for the simulation of a industrial plant controller](https://github.com/brettjstevens/MXEN3004Assignment)
 
 <h3> 📑 Other Assignments</h2>
 
